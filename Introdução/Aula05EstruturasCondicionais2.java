@@ -1,3 +1,5 @@
+package Introdução;
+
 public class Aula05EstruturasCondicionais2 {
     public static void main(String[] args) {
         // categorias se jogadores forem menores que 16 < infatil

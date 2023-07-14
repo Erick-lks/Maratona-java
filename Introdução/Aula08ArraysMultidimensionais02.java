@@ -1,3 +1,5 @@
+package Introdução;
+
 public class Aula08ArraysMultidimensionais02  {
     public static void main(String[] args) {
         int[] [] arrayint = new int[3][];

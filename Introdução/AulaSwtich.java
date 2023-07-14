@@ -1,3 +1,5 @@
+package Introdução;
+
 public class AulaSwtich {
     public static void main(String[] args) {
         //imprima o dia da semana , considerando 1 como domingo

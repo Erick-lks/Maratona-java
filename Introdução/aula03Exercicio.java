@@ -1,4 +1,4 @@
-/* Exercicio reproduza a seguinte frase em codigo
+package Introdução;/* Exercicio reproduza a seguinte frase em codigo
 
 Eu <nome> moro no endereço< endereço> confirmo que recebi o salario< salario>
 na data <data>

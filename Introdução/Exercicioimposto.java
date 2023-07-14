@@ -1,3 +1,5 @@
+package Introdução;
+
 public class Exercicioimposto {
     public static void main(String[] args) {
         /* salario  ate 34712:   imposto devido   :9,7%

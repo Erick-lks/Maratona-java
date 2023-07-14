@@ -1,4 +1,4 @@
-
+package Introdução;
 
 public class AulaSwitchexercicio2 {
     public static void main(String[] args) {

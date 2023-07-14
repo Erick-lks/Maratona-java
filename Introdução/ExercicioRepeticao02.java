@@ -1,3 +1,5 @@
+package Introdução;
+
 public class ExercicioRepeticao02 {
     public static void main(String[] args) {
         //Dado um valor de um carro descubra em quantas vezes ele possa ser parcelado

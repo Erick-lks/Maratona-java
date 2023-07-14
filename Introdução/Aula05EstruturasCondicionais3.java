@@ -1,3 +1,5 @@
+package Introdução;
+
 public class Aula05EstruturasCondicionais3 {
     public static void main(String[] args) {
         //doacçao se tiver 500 doar se nao nao doar

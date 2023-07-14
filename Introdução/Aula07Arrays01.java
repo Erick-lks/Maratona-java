@@ -1,3 +1,5 @@
+package Introdução;
+
 public class Aula07Arrays01 {
     public static void main(String[] args) {
         //para vetores vazios

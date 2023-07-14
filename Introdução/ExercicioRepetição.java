@@ -1,3 +1,5 @@
+package Introdução;
+
 public class ExercicioRepetição {
     public static void main(String[] args) {
         // imprima todos os numeros pares de 2 ate 10000000

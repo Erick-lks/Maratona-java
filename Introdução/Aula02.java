@@ -1,4 +1,4 @@
-/* Tipos primitivos */
+package Introdução;/* Tipos primitivos */
 
 public class Aula02
 {
