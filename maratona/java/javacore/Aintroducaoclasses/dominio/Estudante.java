@@ -1,4 +1,4 @@
-package maratona.java.javacore.introducaoclasses.dominio;
+package maratona.java.javacore.Aintroducaoclasses.dominio;
 
 public class Estudante {
     public String nome;
