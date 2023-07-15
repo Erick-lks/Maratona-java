@@ -20,7 +20,7 @@ Estudante estudante2 = new Estudante();
         System.out.println(estudante2.idade);
         System.out.println(estudante2.sexo);
 //Atençao com valores inseridos no Dominio.
-        
+
     }
 
 }
