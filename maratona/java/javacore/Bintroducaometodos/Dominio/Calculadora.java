@@ -7,4 +7,8 @@ public class Calculadora {
     public void substraiaDoisNumeros(){
         System.out.println(15 - 5 );
     }
+
+    public void multiplicaDoisNumeros (int num1 , int num2){
+        System.out.println(num1 * num2);
+    }
 }
