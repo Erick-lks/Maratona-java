@@ -14,9 +14,19 @@ public class Calculadora {
 
     public double dividaDoisNumeros (double num1 , double num2){
         if (num2 == 0){
+            System.out.println("Numero nao divisivel ");
             return 0;
         }
         return num1/num2;
+
+    }
+    public void alteraDoisNumeros (int num1 , int num2){
+        num1 = 99;
+        num2 = 33;
+
+        System.out.println("Dentro do alteradoisnumeros");
+        System.out.println("num 1  " + num1 );
+        System.out.println("num 2  " + num2 );
 
     }
 }
