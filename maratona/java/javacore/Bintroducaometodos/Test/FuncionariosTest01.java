@@ -8,12 +8,18 @@ public class FuncionariosTest01 {
         // funcionario.salario = new double[] {3500,12500,1000};
 
 
-        funcionario.nome = "Joao";
-        funcionario.idade = 30;
+        funcionario.setNome("Jinn");
+        funcionario.setIdade(25);
+        funcionario.setSalario1(3550);
+        funcionario.setSalario2(1200);
+        funcionario.setSalario3(1000);
 
-        funcionario.salario1 = 3500;
-        funcionario.salario2 = 12500;
-        funcionario.salario3 = 1000;
+
+      funcionario.getNome();
+      funcionario.getIdade();
+      funcionario.getSalario1();
+      funcionario.getSalario2();
+      funcionario.getSalario3();
 
 
         funcionario.imprime();
