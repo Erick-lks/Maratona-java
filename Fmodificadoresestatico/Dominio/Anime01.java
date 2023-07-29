@@ -1,7 +1,7 @@
 package maratona.java.javacore.Fmodificadoresestatico.Dominio;
 
 public class Anime01{
-    private String nome;
+   public String nome;
     private static int[] epsodios;
     //bloco de inicialização static
 
@@ -13,27 +13,22 @@ public class Anime01{
         System.out.println("Inicialização de bloco estatico 02");
 
     }
-    static {
-        System.out.println("Inicialização de bloco estatico 03");
-
-    }
 
 
-    {
-        System.out.println("inicializaçao de bloco nao estatico ");
-    }
 
-    public Anime01(String nome) {
-        this.nome = nome;
-    }
+//    public Anime01(String nome) {
+//        this.nome = nome;
+//    }
 
     public String getNome() {
+
         return nome;
+
     }
 
-    public int[] getEpsodios() {
-        return epsodios;
-    }
+//    public int[] getEpsodios() {
+//        return epsodios;
+//    }
 
 
 

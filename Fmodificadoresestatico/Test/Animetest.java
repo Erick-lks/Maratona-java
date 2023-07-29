@@ -5,6 +5,7 @@ import maratona.java.javacore.Fmodificadoresestatico.Dominio.Anime01;
 public class Animetest {
     public static void main(String[] args) {
         Anime01 anime = new Anime01();
+        System.out.println(anime);
 
     }
 }
