@@ -1,6 +1,6 @@
 package maratona.java.javacore.Fmodificadoresestatico.Dominio;
 
-public class Anime {
+public class Anime01{
     private String nome;
     private static int[] epsodios;
     //bloco de inicialização static
@@ -23,7 +23,7 @@ public class Anime {
         System.out.println("inicializaçao de bloco nao estatico ");
     }
 
-    public Anime(String nome) {
+    public Anime01(String nome) {
         this.nome = nome;
     }
 
@@ -39,7 +39,7 @@ public class Anime {
 
 
 
-    public Anime() {
+    public Anime01() {
         epsodios = new int[100];
 
         for (int i = 0; i < epsodios.length; i++) {
@@ -48,7 +48,7 @@ public class Anime {
 
         }
 
-        for (int epsodios : Anime.epsodios
+        for (int epsodios : Anime01.epsodios
         ) {
             System.out.print(epsodios + " ");
 
