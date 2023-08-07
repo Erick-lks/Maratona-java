@@ -20,9 +20,9 @@ public class Jogador {
 
 
     }
-    public Time getTime() {
-        return time;
-    }
+//    public Time getTime() {
+//        return time;
+//    }
 
     public void setTime(Time time) {
         this.time = time;
