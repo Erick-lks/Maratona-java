@@ -1,4 +1,4 @@
-package maratona.java.javacore.Oexecption.test;
+package maratona.java.javacore.Oexecption.Error.test;
 
 public class stackOverflowtest01 {
     public static void main(String[] args) {
