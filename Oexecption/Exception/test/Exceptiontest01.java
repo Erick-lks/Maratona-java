@@ -20,7 +20,7 @@ public class Exceptiontest01 {
 
                 //nao coloca regras de negocio no cath
                 //nunca deixar o bloco em branco
-                //tem uma excecao acontecendo nao deixar em branco
+                //tem uma excecao acontecendo nao deixar em branco catch
 
             }
 
